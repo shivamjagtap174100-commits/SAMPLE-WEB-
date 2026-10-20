@@ -1,0 +1,3 @@
+#tab-buffet:checked ~ .container .hotels-grid .hotel-card:not([data-category*="buffet"]) {
+  display: none;
+}
